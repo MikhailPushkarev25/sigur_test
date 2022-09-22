@@ -1,0 +1,12 @@
+edu\test\java\job\model\Guest.class
+edu\test\java\job\repository\EmployeesRepository.class
+edu\test\java\job\repository\DepartmentRepository.class
+edu\test\java\job\model\Employee.class
+edu\test\java\job\model\Type.class
+edu\test\java\job\service\DepartmentService.class
+edu\test\java\job\repository\GuestRepository.class
+edu\test\java\job\service\EmployeeService.class
+edu\test\java\job\Main.class
+edu\test\java\job\component\EmployeesMgr.class
+edu\test\java\job\model\Person.class
+edu\test\java\job\model\Department.class
